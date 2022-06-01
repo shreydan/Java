@@ -2,7 +2,7 @@
 
 ## LAB
 
-[!lab-practicals](lab-practicals-sem4.png)
+![lab-practicals](lab-practicals-sem4.png)
 
 - exp1 - `employee1.java`: read from console employee details of 5 employees: name, dept, age, salary, and print.
 
