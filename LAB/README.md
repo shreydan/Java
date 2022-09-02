@@ -12,4 +12,6 @@
 
 - exp8 - `twothreads.java`: T1: 1-10, T2: A-J, .join() so T1 -> T2
 
+- exp11 - SEE [num-to-text](../AWT/num-to-text/) -- can ignore the fonts and stuff.
+
 ![lab-practicals](lab-practicals-sem4.png)
