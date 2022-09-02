@@ -10,4 +10,6 @@
 
 - exp5 - `access-modifiers/`: demonstrate effects of default, private, protected, public in packages and outside packages. RUN `javac Test.java` should compile the class and subclass in the package `packagename`.
 
+- exp8 - `twothreads.java`: T1: 1-10, T2: A-J, .join() so T1 -> T2
+
 ![lab-practicals](lab-practicals-sem4.png)
