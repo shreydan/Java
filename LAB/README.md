@@ -8,4 +8,6 @@
 
 - exp4 - `shapeInterface.java`: shape interface with area() method and circle, triangle class implements of shape with user input.
 
+- exp5 - `access-modifiers/`: demonstrate effects of default, private, protected, public in packages and outside packages. RUN `javac Test.java` should compile the class and subclass in the package `packagename`.
+
 ![lab-practicals](lab-practicals-sem4.png)
